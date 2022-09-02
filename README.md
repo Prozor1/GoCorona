@@ -1,1 +1,1 @@
-# GoCorona
+# GoCorona - Тренировочный проект
